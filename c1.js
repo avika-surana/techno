@@ -272,5 +272,5 @@ obj.section="FSD";
 let firstname="section";
 let KeyName="address";
 obj[KeyName]="udaipur";
-console.log(firstname);
+console.log(obj[firstname]);
 
