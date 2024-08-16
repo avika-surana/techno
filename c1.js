@@ -273,4 +273,5 @@ let firstname="section";
 let KeyName="address";
 obj[KeyName]="udaipur";
 console.log(obj[firstname]);
-
+ //loops, strict node ,console types ,array methods
+ //for,while,do while
