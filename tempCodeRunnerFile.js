@@ -1,4 +1,1 @@
-
-
-
-
+const otp = randomNum.toString().padStart(4, '0');
